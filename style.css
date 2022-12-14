@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: linear-gradient(-90deg, #3e50b2, #4b61d8, #5872fe, #3f51b5, #5866f5);
+    color: #000000;
+    font-family: sans-serif;
+    font-size:default;
+    background-image: url("https://i.pinimg.com/originals/49/07/82/49078239072dee326254d6a0d1a34ea9.gif");
+
+}
+
+div.img1{
+    padding: 0;
+    margin: 50px;
+}
+
+button{
+    width: 350px;
+    height: 100px;
+    color: #f3fbfb;
+    font-size: 25px;
+    font-family: Belgrano;
+    padding: 10px 0;
+    background: linear-gradient(-35deg, #1e026a, #21035b, #330868, #1e042c, #55178b );
+    border: 0;
+    border-radius: 300px;
+    outline: none;
+    margin-top: 30px;
+    cursor: pointer;
+}
